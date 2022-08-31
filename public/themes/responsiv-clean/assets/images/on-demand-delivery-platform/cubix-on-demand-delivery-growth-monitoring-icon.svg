@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="8.58085703e-05 -0.000143355881 38.6138566 -0.000143355881 38.6138566 1.86178094 8.58085703e-05 1.86178094"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cubix-commerce-copy-2" transform="translate(-811.000000, -3730.000000)">
+            <g id="Group-26" transform="translate(811.000000, 3728.000000)">
+                <g id="Group-14-Copy" transform="translate(-0.000000, 0.617932)" fill="#E02A28" fill-rule="nonzero">
+                    <g id="Group-32" transform="translate(0.000000, 0.006957)">
+                        <g id="Group-31-Copy" transform="translate(0.000000, 0.670876)">
+                            <circle id="Oval-6" cx="35" cy="35.6994913" r="35"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-10" transform="translate(14.777473, 20.928457)">
+                    <path d="M35.8312608,29.2760162 L35.8312608,1.33075597 C35.8312608,0.595718582 35.2353885,-0.000153773511 34.5003511,-0.000153773511 L29.177481,-0.000153773511 C28.4424436,-0.000153773511 27.8465712,0.595718582 27.8465712,1.33075597 L27.8465712,29.2760162" id="Stroke-1" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M24.1312659,29.2760162 L24.1312659,10.6463553 C24.1312659,9.91054902 23.5353936,9.31467667 22.8003562,9.31467667 L17.4774861,9.31467667 C16.7424487,9.31467667 16.1465764,9.91054902 16.1465764,10.6463553 L16.1465764,29.2760162" id="Stroke-3" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M12.4565572,29.2760162 L12.4565572,19.9611857 C12.4565572,19.2261483 11.8606849,18.630276 11.1256475,18.630276 L5.80277741,18.630276 C5.06774002,18.630276 4.47186767,19.2261483 4.47186767,19.9611857 L4.47186767,29.2760162" id="Stroke-5" stroke="#FFFFFF" stroke-width="2"></path>
+                    <g id="Group-9" transform="translate(0.807611, 29.276093)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Clip-8" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="71px" viewBox="0 0 70 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="17.5825794%" y1="31.9988244%" x2="66.3527507%" y2="61.3938877%" id="linearGradient-1">
+            <stop stop-color="#E76454" offset="0%"></stop>
+            <stop stop-color="#E77854" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cubix-commerce-copy-2" transform="translate(-811.000000, -3736.000000)">
+            <g id="Group-14-Copy" transform="translate(811.000000, 3735.566644)">
+                <g id="Group-31-Copy" transform="translate(0.000000, 0.677832)" fill="url(#linearGradient-1)">
+                    <circle id="Oval-6" cx="35" cy="35.6994913" r="35"></circle>
+                </g>
+                <g id="Group-15" transform="translate(21.933911, 16.819685)" stroke="#FFFFFF" stroke-width="2">
+                    <path d="M24.491947,25.6649055 L24.491947,36.3653292 C24.491947,36.9681391 23.999835,37.4613472 23.395929,37.4613472 L1.64435581,37.4613472 C1.04154591,37.4613472 0.548337806,36.9681391 0.548337806,36.3653292 L0.548337806,1.64347899 C0.548337806,1.04176511 1.04154591,0.547460991 1.64435581,0.547460991 L23.395929,0.547460991 C23.999835,0.547460991 24.491947,1.04176511 24.491947,1.64347899 L24.491947,13.151668" id="Stroke-1"></path>
+                    <path d="M0.548118602,7.489639 L24.4917278,7.489639" id="Stroke-3"></path>
+                    <path d="M0.548118602,31.236513 L24.4917278,31.236513" id="Stroke-5"></path>
+                    <path d="M9.58171816,3.9275805 L14.8546608,3.9275805" id="Stroke-7"></path>
+                    <path d="M30.7491138,19.4088348 C30.7491138,22.8634835 27.9476918,25.6649055 24.491947,25.6649055 C21.0372983,25.6649055 18.2358763,22.8634835 18.2358763,19.4088348 C18.2358763,15.95309 21.0372983,13.152764 24.491947,13.152764 C27.9476918,13.152764 30.7491138,15.95309 30.7491138,19.4088348 Z" id="Stroke-9"></path>
+                    <path d="M24.491947,15.5987378 L24.491947,20.1877652" id="Stroke-11"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

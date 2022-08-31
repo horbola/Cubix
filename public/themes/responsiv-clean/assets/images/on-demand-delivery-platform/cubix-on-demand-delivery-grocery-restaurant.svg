@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="87px" viewBox="0 0 87 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 42.0994 46.101 42.0994 46.101 0.0004 0 0.0004"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cubix-commerce-copy-2" transform="translate(-1045.000000, -1023.000000)">
+            <g id="Group-22" transform="translate(1045.000000, 1023.000000)">
+                <circle id="Oval-6-Copy" fill="#E02A28" fill-rule="nonzero" cx="43.1875941" cy="43.6835938" r="43"></circle>
+                <g id="Group-8" transform="translate(19.687594, 21.824219)">
+                    <path d="M10.4487,14.9467 L21.5257,3.8697 C22.2047,3.1917 22.2047,2.0907 21.5257,1.4097 L21.5257,1.4087 C20.8457,0.7307 19.7417,0.7307 19.0657,1.4087 L5.5277,14.9467 L10.4487,14.9467 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M35.6509,14.9467 L24.5739,3.8697 C23.8959,3.1917 23.8959,2.0907 24.5739,1.4097 L24.5749,1.4087 C25.2539,0.7307 26.3559,0.7307 27.0349,1.4087 L40.5739,14.9467 L35.6509,14.9467 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-6"></g>
+                    <polygon id="Stroke-5" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="0.9 18.2284 45.201 18.2284 45.201 14.9464 0.9 14.9464"></polygon>
+                    <path d="M8.667,41.1991 L37.433,41.1991 C39.065,41.1991 40.45,39.9971 40.68,38.3831 L43.56,18.2281 L2.541,18.2281 L5.419,38.3831 C5.651,39.9971 7.034,41.1991 8.667,41.1991 Z" id="Stroke-7" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

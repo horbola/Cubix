@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="71px" viewBox="0 0 70 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="16.8296659%" y1="31.5450236%" x2="67.1238341%" y2="61.8586399%" id="linearGradient-1">
+            <stop stop-color="#00BB94" offset="0%"></stop>
+            <stop stop-color="#0094A0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cubix-commerce-copy-2" transform="translate(-174.000000, -3132.000000)">
+            <g id="Group-23" transform="translate(174.000000, 3130.000000)">
+                <g id="Group-14" transform="translate(0.000000, 0.923973)" fill="url(#linearGradient-1)">
+                    <g id="Group-32" transform="translate(0.000000, 0.006957)">
+                        <circle id="Oval-6" cx="35" cy="36.370367" r="35"></circle>
+                    </g>
+                </g>
+                <g id="Group-6" transform="translate(19.507184, 21.431156)" stroke="#FFFFFF" stroke-width="1.8">
+                    <polygon id="Stroke-1" points="0.776819605 13.2293932 13.2292379 13.2293932 13.2292379 0.776974969 0.776819605 0.776974969"></polygon>
+                    <polygon id="Stroke-3" points="17.5732131 13.2293932 30.0256314 13.2293932 30.0256314 0.776974969 17.5732131 0.776974969"></polygon>
+                    <polygon id="Stroke-4" points="0.776819605 29.6404842 13.2292379 29.6404842 13.2292379 17.188066 0.776819605 17.188066"></polygon>
+                    <polygon id="Stroke-5" points="17.5732131 29.6404842 30.0256314 29.6404842 30.0256314 17.188066 17.5732131 17.188066"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

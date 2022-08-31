@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="71px" viewBox="0 0 70 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="17.5825794%" y1="31.9988244%" x2="66.3527507%" y2="61.3938877%" id="linearGradient-1">
+            <stop stop-color="#E76454" offset="0%"></stop>
+            <stop stop-color="#E77854" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cubix-commerce-copy-2" transform="translate(-811.000000, -2541.000000)">
+            <g id="Group-22" transform="translate(811.000000, 2541.000000)">
+                <g id="Group-14" transform="translate(0.000000, 0.592151)" fill="url(#linearGradient-1)">
+                    <circle id="Oval-6" cx="35" cy="35.3773237" r="35"></circle>
+                </g>
+                <g id="Group-10" transform="translate(17.050876, 19.238505)">
+                    <polygon id="Fill-1" points="0.398869432 31.9095546 35.4985818 31.9095546 35.4985818 0.399667171 0.398869432 0.399667171"></polygon>
+                    <g id="Group-5" transform="translate(0.000000, 0.398869)" stroke="#FFFFFF" stroke-width="1.6">
+                        <polygon id="Stroke-2" points="0.398869432 31.5106852 35.4993795 31.5106852 35.4993795 0 0.398869432 0"></polygon>
+                        <path d="M0.448728112,5.38473734 L35.5492382,5.38473734" id="Stroke-4"></path>
+                    </g>
+                    <polygon id="Stroke-7" stroke="#FFFFFF" stroke-width="1.6" points="19.37014 21.3416688 30.5561015 21.3416688 30.5561015 9.45216873 19.37014 9.45216873"></polygon>
+                    <polygon id="Stroke-7-Copy" stroke="#FFFFFF" stroke-width="1.6" points="4.72385447 21.3416688 15.909816 21.3416688 15.909816 9.45216873 4.72385447 9.45216873"></polygon>
+                    <path d="M4.08841168,24.9083592 L31.361508,24.9083592" id="Stroke-8" stroke="#FFFFFF" stroke-width="1.6"></path>
+                    <path d="M4.08841168,27.9995973 L31.361508,27.9995973" id="Stroke-9" stroke="#FFFFFF" stroke-width="1.6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

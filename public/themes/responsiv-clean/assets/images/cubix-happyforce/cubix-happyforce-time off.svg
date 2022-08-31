@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Time Off</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FEA673" offset="0%"></stop>
+            <stop stop-color="#FF8989" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cubix-commerce-copy-2" transform="translate(-266.000000, -1707.000000)">
+            <g id="Time-Off" transform="translate(266.000000, 1706.000000)">
+                <g id="Group-31" transform="translate(0.000000, 0.148438)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                    <circle id="Oval-6" cx="43" cy="43.859375" r="43"></circle>
+                </g>
+                <g transform="translate(21.326146, 23.687500)" fill="#FFFFFF" stroke="#FFFFFF">
+                    <path d="M21.2650749,0 C9.53915816,0 0,9.53915816 0,21.2650749 C0,32.9909915 9.53915816,42.5301497 21.2650749,42.5301497 C32.9909915,42.5301497 42.5301497,32.9909915 42.5301497,21.2650749 C42.5301497,9.53915816 32.9909915,0 21.2650749,0 Z M21.2650749,41.110706 C10.3206497,41.110706 1.41944375,32.2095 1.41944375,21.2650749 C1.41944375,10.3206497 10.3206497,1.41944375 21.2650749,1.41944375 C32.2095,1.41944375 41.110706,10.3206497 41.110706,21.2650749 C41.110706,32.2095 32.2095,41.110706 21.2650749,41.110706 Z" id="Fill-1"></path>
+                    <path d="M21.5006152,5.88470328 C21.1099509,5.88470328 20.7910412,6.21133139 20.7910412,6.62168672 L20.7910412,23.5493038 L10.1607184,23.5493038 C9.77005406,23.5493038 9.45114438,23.8796122 9.45114438,24.2862872 C9.45114438,24.6920421 9.77005406,25.0232706 10.1607184,25.0232706 L21.5006152,25.0232706 C21.8912796,25.0232706 22.2101893,24.6920421 22.2101893,24.2862872 L22.2101893,6.62168672 C22.2101893,6.21133139 21.8912796,5.88470328 21.5006152,5.88470328 Z" id="Fill-4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
